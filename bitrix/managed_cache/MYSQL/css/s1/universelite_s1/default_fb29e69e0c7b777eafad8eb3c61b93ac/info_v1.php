@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/universelite_s1/components/bitrix/menu/vertical.4/style.css" => "16845125147516",]; ?>

@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/universelite_s1/components/bitrix/catalog/catalog.1/style.css" => "168451251528185","/bitrix/templates/universelite_s1/components/intec.universe/tags.list/.default/style.css" => "16845125141664","/bitrix/templates/universelite_s1/components/bitrix/catalog.section.list/catalog.tile.5/style.css" => "16845125147826",]; ?>

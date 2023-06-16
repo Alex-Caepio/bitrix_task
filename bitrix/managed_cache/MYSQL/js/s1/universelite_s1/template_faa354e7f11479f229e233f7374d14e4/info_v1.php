@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/universelite_s1/js/bundle.js" => "1684512515441577","/bitrix/components/bitrix/search.title/script.js" => "16845109306443",]; ?>

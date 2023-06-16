@@ -1,0 +1,35 @@
+<?
+$MESS["MAIN_TAB_RIGHTS"] = "Доступ";
+$MESS["MAIN_TAB_TITLE_RIGHTS"] = "Уровень доступа к модулю";
+$MESS["MAIN_SAVE"] = "Сохранить";
+$MESS["MAIN_OPT_SAVE_TITLE"] = "Сохранить";
+$MESS["ALKO_COMPRESS_REFERENCES_OPTIONS_SAVED"] = "Настройки успешно сохранены";
+
+$MESS["ALKO_COMPRESS_REFERENCES_PATH_JPEGOPTI"] = "Путь до jpegoptim";
+$MESS["ALKO_COMPRESS_REFERENCES_PATH_PNGOPTI"] = "Путь до optipng";
+$MESS["ALKO_COMPRESS_REFERENCES_ENABLE_ELEMENT"] = "Включить сжатие у элементов";
+$MESS["ALKO_COMPRESS_REFERENCES_ENABLE_SECTION"] = "Включить сжатие у разделов";
+$MESS["ALKO_COMPRESS_REFERENCES_ENABLE_RESIZE"] = "Включить сжатие при ресайзе";
+$MESS["ALKO_COMPRESS_REFERENCES_ENABLE_SAVE"] = "Включить сжатие при сохранении";
+$MESS["ALKO_COMPRESS_REFERENCES_JPEG_COMPRESS"] = "Качество jpeg-файлов при сжатии";
+$MESS["ALKO_COMPRESS_REFERENCES_PNG_COMPRESS"] = "Степень сжатия у png-файлов";
+$MESS["ALKO_COMPRESS_REFERENCES_TEST_BTN"] = "Тестировать конфигурацию сервера";
+$MESS["ALKO_IMAGECOMPRESS_ERROR_CHECK_NOFOUND"] = "Не найден #MODULE#. Установите на сервере #MODULE#";
+$MESS["ALKO_COMPRESS_OPTIONS_TESTED"] = "Конфигурация сервера успешно протестировна";
+$MESS["ALKO_COMPRESS_OPTIONS_NO_TESTED"] = "Конфигурация сервера не соответствует!";
+$MESS["ALKO_IMAGECOMPRESS_COMPRESS_IMAGE_PROGRESSBAR"] = "Процесс оптимизации картинок";
+$MESS["ALKO_COMPRESS_REFERENCES_JPEG_PROGRESSIVE"] = "Включить progressive jpeg";
+$MESS["ALKO_COMPRESS_SERVICE"] = "Оптимизировать";
+$MESS["ALKO_COMPRESS_SERVICE_LOCAL"] = "Локально";
+$MESS["ALKO_COMPRESS_SERVICE_REMOTE"] = "Удалённо";
+$MESS["ALKO_TOTAL_SETTINGS"] = "Основные настройки";
+$MESS["ALKO_REMOTE_SETTINGS"] = "Настройки для работы с удалённым сервисом";
+$MESS["ALKO_LOCAL_SETTINGS"] = "Настройки для работы на локальном сервере";
+$MESS["ALKO_TOTAL"] = "Основные";
+$MESS["ALKO_LOCAL"] = "Локальные";
+$MESS["ALKO_REMOTE"] = "Удалённые";
+$MESS["ALKO_REMOTE_SERVICE_ADDR"] = "Адрес удалённого сервиса";
+$MESS["ALKO_REMOTE_SERVICE_KEY"] = "Ключ";
+$MESS["ALKO_COMPRESS_REFERENCES_ENABLE_SECTION_IBLOCK"] = "Инфоблоки для разделов";
+$MESS["ALKO_COMPRESS_REFERENCES_ENABLE_ELEMENT_IBLOCK"] = "Инфоблоки для элементов";
+$MESS["ALKO_IBLOCKS_EMPTY"] = "-не выбрано-";

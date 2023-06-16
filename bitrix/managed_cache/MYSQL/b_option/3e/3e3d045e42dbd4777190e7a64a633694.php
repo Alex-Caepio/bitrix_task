@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001684785256';
+$dateexpire = '001684788856';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:1:"-";a:0:{}s:2:"s1";a:5:{s:12:"DELIVERY_USE";s:1:"Y";s:29:"MAIL_ADMIN_ORDER_CREATE_EVENT";s:25:"STARTSHOP_NEW_ORDER_ADMIN";s:26:"MAIL_ADMIN_ORDER_PAY_EVENT";s:25:"STARTSHOP_PAY_ORDER_ADMIN";s:30:"MAIL_CLIENT_ORDER_CREATE_EVENT";s:19:"STARTSHOP_NEW_ORDER";s:11:"PAYMENT_USE";s:1:"Y";}}}';
+return true;
+?>
